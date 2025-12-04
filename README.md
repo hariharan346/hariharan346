@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on ecommerce website.<br>👯 I’m looking to collaborate on Front-End and Back-End Projects.<br>🌱 I’m currently having fun with web dev. <br>📧 How to reach me: dev.huzaif@gmail.com** <br> 💬 Ask me about technologies and web development.<br>⚡ Fun fact :🌐 Full-Stack Adventurer: Jumping between frontend animations and backend APIs like it’s a parkour course.<br> 😃 pronounce : He/Him
 
-'''
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/huzaifahmedz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaif-ahmed-6abb49273/)
